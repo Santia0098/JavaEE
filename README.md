@@ -1,8 +1,10 @@
 # Java Estandar Edition - Project
+This project works with Java Enterprise Edition, Docker, Postgres, OmniDB.
 
-This project works with JEE, Docker, Postgres, OmniDB
+## Overview
+### Dependencies
 
-We use many libraries like:
+We use many libraries in our project like:
 
 - spring-boot-starter-data-jpa
 - postgresql
@@ -11,3 +13,11 @@ We use many libraries like:
 - spring-boot-starter-security
 - spring-boot-starter-thymeleaf
 - Lombok
+
+
+## Author
+Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
+
+## Version
+
+1.0 Initial release (project finished).
