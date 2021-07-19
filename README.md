@@ -1,6 +1,9 @@
 # Java Enterprise Edition Course
 
-This project works with Java Enterprise Edition, Docker, Postgres, OmniDB. Is a CRUD project, use a local database with Postgres
+This project works with Java Enterprise Edition, Docker, Postgres, OmniDB. 
+
+## Description
+Is a CRUD project, use a local database with Postgres and works with Eclipse.
 
 ## Getting Started
 
