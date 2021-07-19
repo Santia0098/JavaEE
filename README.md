@@ -1,7 +1,16 @@
-# Java Estandar Edition - Project
-This project works with Java Enterprise Edition, Docker, Postgres, OmniDB.
+# Java Estandar Edition Course
 
-## Overview
+This project works with Java Enterprise Edition, Docker, Postgres, OmniDB. Is a CRUD project, use a local database with Postgres
+
+## Getting Started
+
+### Run project.
+
+Steps: 
+
+  1. Run our local database using pgAdmin.
+  2. Download this project and run it with Eclipse IDE.
+  3. Check the connection and it's ready to use it.
 ### Dependencies
 
 We use many libraries in our project like:
@@ -15,8 +24,10 @@ We use many libraries in our project like:
 - Lombok
 
 
-## Author
-Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
+## Authors and acknowledgment
+Thanks to platzi and **Marco Antonio Toscano Freire** for this incredible course. [Java EE](https://platzi.com/clases/jee/ "Java EE")
+
+ - Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
 
 ## Version
 
