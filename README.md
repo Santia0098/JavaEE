@@ -1,4 +1,4 @@
-# Java Estandar Edition Course
+# Java Enterprise Edition Course
 
 This project works with Java Enterprise Edition, Docker, Postgres, OmniDB. Is a CRUD project, use a local database with Postgres
 
